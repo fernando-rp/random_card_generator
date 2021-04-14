@@ -24,7 +24,7 @@ html, body{
     font-size: 80px;
 }
 
-.heart-b, .diamong-t{
+.heart-b, .diamond-b{
     margin-left: 215px;
     margin-bottom: 15px;
     color: red;
@@ -37,14 +37,14 @@ html, body{
     font-size: 80px;
 }
 
-.club-b, .club-t{
+.club-b, .spade-b{
     margin-left: 215px;
     margin-bottom: 15px;
     font-size: 80px;
 }
 
 
-.number{
+#number{
     font-size: 140px;
     margin: auto;
 }
